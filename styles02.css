@@ -1,0 +1,30 @@
+html{
+  background-color: #fff;
+  font-family: Courier;
+  width: 100%;
+}
+#heading:hover{
+  color: rgb(250,24,30);
+}
+table{
+  border-collapse: collapse;
+}
+td,th{
+  font-family: Courier;
+  font-weight: bolder;
+  border:2px solid #dddddd;
+  padding:8px;
+}
+tr:nth-child(even){
+  background-color:#dddddd;
+}
+#wtf:hover{
+  color: red;
+}
+
+.Footer{
+  background-color: #dddddd;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+}
